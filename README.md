@@ -4,4 +4,4 @@ I am educator and researcher, who specialises in the industrial mathematics. I w
 
 My main project is focused on developing analytic benchmarks for the hydrologic models, with applications in flood modelling, which is the outcome of a long-term collaboration between the University of Bath and UK's Environment Agency. Repositories found on my GitHub account can be used to easily reproduce all the results of my work. I hope this will be inspiring for other researchers in the field of hydrology, in which sharing data and codes is still extremely rare.
 
-In case of any comments, feel free to message me!
+In case of any comments or questions, feel free to message me!
